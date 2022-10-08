@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/JBCDESING/JBC-DESING/issues"
   },
-  "homepage": "https://github.com/JBCDESING/JBC-DESING#readme"
+  "homepage": "https://github.com/JBCDESING/JBC-DESING#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1",
+    "jquery": "^3.6.1"
+  }
 }
